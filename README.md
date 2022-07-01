@@ -6,7 +6,7 @@ O midipad é um software que permite ao usuário tocar notas de um instrumento e
 
 ## Link do projeto no GitHub Pages`:`
 
-[GitHub Pages](https://soundpad.github.io)
+[GitHub Pages](https://r0drigu3s.github.io/midipad/)
 
 ## Construído com`:`
 
